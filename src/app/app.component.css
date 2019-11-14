@@ -1,0 +1,9 @@
+.negrita {
+    font-weight: bold;
+}
+
+.linea-punteada {
+    width: 70%;
+    color: black;
+    border:2px dashed;
+}
